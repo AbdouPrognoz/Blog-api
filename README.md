@@ -1,2 +1,2 @@
 # Blog-api
-/
+This project is a simple blog platform that demonstrates how to build and consume a RESTful API using Node.js, Express, and Axios. The backend API (running on port 4000) manages blog posts, allowing users to create, read, update, and delete posts. The frontend server (running on port 3000) interacts with the API using Axios to fetch and manipulate post data, rendering dynamic pages with EJS templates. The project emphasizes API design and usage, showing how to connect a client application to a custom backend, handle HTTP requests, and manage data flow between servers.
